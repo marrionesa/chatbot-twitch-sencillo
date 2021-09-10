@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-twitch-sencillo",
+  "version": "1.0.0",
+  "description": "Bot para Twitch.TV con comandos personalizados",
+  "main": "index.js",
+  "scripts": {
+    "comandos": ""
+  },
+  "author": "marrionesa",
+  "license": "",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
